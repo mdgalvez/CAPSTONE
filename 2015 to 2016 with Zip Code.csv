@@ -1,0 +1,343 @@
+Discharge Year,PFI,Facility Name,Zip Code,Data Dictionary Version,Risk Adujsted Mortality Denominator,Observed Deaths,Risk Adjusted Mortality Rate (RAMR),High/Low Performer,Protocol Initiated Denominator,Protocol Initiated (%),Protocol Initiated Quintile of Performance,3-Hour Bundle Denominator,Met 3-Hour Bundle (%),3-Hour Bundle Quintile of Performance,6-Hour Bundle Denominator,Met 6-Hour Bundle (%),6-Hour Bundle Quintile of Performance
+2015,0,STATEWIDE,,v1.42 - v2.0,"43,604","11,917",27.33,N.A.,46845,81.19,N.A.,"27,937",54.07,N.A.,"27,354",31.53,N.A.
+2015,1,Albany Medical Center Hospital,,v1.42 - v2.0,466,111,24.9,AVERAGE,753,91.63,3-Middle,254,36.61,1-Lowest,254,25.98,2-Low
+2015,4,Albany Memorial Hospital,,v1.42 - v2.0,108,26,23.72,AVERAGE,124,93.55,3-Middle,91,49.45,2-Low,91,23.08,2-Low
+2015,5,St Peters Hospital,,v1.42 - v2.0,318,84,21.04,HIGH,347,100,5-Highest,216,63.89,4-High,214,22.9,2-Low
+2015,39,Memorial Hosp of Wm F & Gertrude F Jones A/K/A Jones Memorial Hosp,,v1.42 - v2.0,19,4,15.63,AVERAGE,22,90.91,3-Middle,16,62.5,4-High,16,37.5,4-High
+2015,42,United Health Services Hospitals Inc. - Binghamton General Hospital,,v1.42 - v2.0,34,11,27,AVERAGE,41,82.93,2-Low,19,42.11,1-Lowest,19,10.53,1-Lowest
+2015,43,Our Lady of Lourdes Memorial Hospital Inc,,v1.42 - v2.0,172,51,36.51,LOW,179,74.3,2-Low,108,58.33,3-Middle,108,41.67,4-High
+2015,58,United Health Services Hospitals Inc. - Wilson Medical Center,,v1.42 - v2.0,239,61,21.73,HIGH,275,84,2-Low,128,46.88,2-Low,128,24.22,2-Low
+2015,66,Olean General Hospital,,v1.42 - v2.0,112,29,23.31,AVERAGE,120,100,5-Highest,78,67.95,4-High,77,28.57,3-Middle
+2015,85,Auburn Community Hospital,,v1.42 - v2.0,72,31,39.19,LOW,78,51.28,1-Lowest,20,50,2-Low,19,42.11,5-Highest
+2015,98,Brooks Memorial Hospital,,v1.42 - v2.0,25,10,34.05,AVERAGE,33,15.15,1-Lowest,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2015,103,Womans Christian Association,,v1.42 - v2.0,106,33,29,AVERAGE,133,57.89,1-Lowest,65,67.69,4-High,59,23.73,2-Low
+2015,116,Arnot Ogden Medical Center,,v1.42 - v2.0,129,19,11.51,HIGH,187,68.98,1-Lowest,87,51.72,2-Low,87,12.64,1-Lowest
+2015,128,Chenango Memorial Hospital Inc,,v1.42 - v2.0,29,12,32.11,AVERAGE,38,92.11,3-Middle,25,56,3-Middle,25,44,5-Highest
+2015,135,Champlain Valley Physicians Hospital Medical Center,,v1.42 - v2.0,222,52,23.29,AVERAGE,243,41.15,1-Lowest,57,66.67,4-High,55,30.91,3-Middle
+2015,146,Columbia Memorial Hospital,,v1.42 - v2.0,43,17,34.68,AVERAGE,42,76.19,2-Low,29,58.62,3-Middle,29,27.59,3-Middle
+2015,158,Cortland Regional Medical Center Inc,,v1.42 - v2.0,101,22,24.11,AVERAGE,124,89.52,3-Middle,88,55.68,3-Middle,85,22.35,2-Low
+2015,165,OConnor Hospital,,v1.42 - v2.0,N.C.,N.C.,N.C.,N.C.,12,83.33,2-Low,N.C.,N.C.,N.C.,N.C.,N.C.,N.C.
+2015,180,St Francis Hospital - Poughkeepsie,,v1.42 - v2.0,153,40,27.6,AVERAGE,161,93.17,3-Middle,122,67.21,4-High,120,24.17,2-Low
+2015,181,Vassar Brothers Medical Center,,v1.42 - v2.0,504,147,23.42,HIGH,539,80.89,2-Low,369,80.22,5-Highest,368,55.16,5-Highest
+2015,192,Northern Dutchess Hospital,,v1.42 - v2.0,36,13,32.77,AVERAGE,35,82.86,2-Low,27,77.78,5-Highest,27,48.15,5-Highest
+2015,207,Buffalo General Medical Center,,v1.42 - v2.0,502,169,28.42,AVERAGE,675,32.89,1-Lowest,104,43.27,1-Lowest,104,21.15,2-Low
+2015,210,Erie County Medical Center,,v1.42 - v2.0,168,48,27.85,AVERAGE,189,99.47,4-High,110,23.64,1-Lowest,105,13.33,1-Lowest
+2015,213,Mercy Hospital,,v1.42 - v2.0,413,151,32.19,LOW,421,80.76,2-Low,269,57.99,3-Middle,265,29.43,3-Middle
+2015,216,Roswell Park Cancer Institute,,v1.42 - v2.0,80,32,27.38,AVERAGE,106,92.45,3-Middle,N.C.,N.C.,N.C.,N.C.,N.C.,N.C.
+2015,218,Sisters of Charity Hospital,,v1.42 - v2.0,111,48,37.09,LOW,117,74.36,2-Low,57,43.86,1-Lowest,56,26.79,2-Low
+2015,245,University Hospital (Stonybrook),,v1.42 - v2.0,675,136,20.28,HIGH,726,93.11,3-Middle,563,56.66,3-Middle,545,33.76,3-Middle
+2015,267,Kenmore Mercy Hospital,,v1.42 - v2.0,200,52,27.38,AVERAGE,201,74.13,2-Low,125,72,5-Highest,124,41.13,4-High
+2015,280,Bertrand Chaffee Hospital,,v1.42 - v2.0,13,6,59.25,LOW,22,81.82,2-Low,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2015,292,Sisters of Charity Hospital - St Joseph Campus,,v1.42 - v2.0,46,21,32.14,AVERAGE,38,84.21,2-Low,31,48.39,2-Low,29,20.69,2-Low
+2015,303,Elizabethtown Community Hospital,,v1.42 - v2.0,N.C.,N.C.,N.C.,N.C.,20,100,5-Highest,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2015,309,Moses-Ludington Hospital,,v1.42 - v2.0,N.C.,N.C.,N.C.,N.C.,17,100,5-Highest,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2015,324,Adirondack Medical Center-Saranac Lake Site,,v1.42 - v2.0,40,12,33.21,AVERAGE,49,20.41,1-Lowest,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2015,325,Alice Hyde Medical Center,,v1.42 - v2.0,32,3,9.32,HIGH,40,72.5,2-Low,22,86.36,5-Highest,21,33.33,3-Middle
+2015,330,Nathan Littauer Hospital,,v1.42 - v2.0,68,17,44.49,LOW,97,50.52,1-Lowest,14,57.14,3-Middle,14,42.86,5-Highest
+2015,339,United Memorial Medical Center North Street Campus,,v1.42 - v2.0,87,23,26.24,AVERAGE,98,90.82,3-Middle,76,61.84,4-High,75,29.33,3-Middle
+2015,362,Little Falls Hospital,,v1.42 - v2.0,N.C.,N.C.,N.C.,N.C.,25,100,5-Highest,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2015,367,Samaritan Medical Center,,v1.42 - v2.0,101,19,20.88,AVERAGE,112,86.61,3-Middle,76,53.95,3-Middle,72,22.22,2-Low
+2015,377,"River Hospital, Inc.",,v1.42 - v2.0,N.C.,N.C.,N.C.,N.C.,12,75,2-Low,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2015,383,Lewis County General Hospital,,v1.42 - v2.0,31,3,18.2,AVERAGE,36,13.89,1-Lowest,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2015,393,Nicholas H Noyes Memorial Hospital,,v1.42 - v2.0,16,6,31.62,AVERAGE,19,10.53,1-Lowest,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2015,397,Oneida Healthcare,,v1.42 - v2.0,15,7,42.74,AVERAGE,17,94.12,4-High,13,46.15,2-Low,13,0,1-Lowest
+2015,401,Community Memorial Hospital Inc,,v1.42 - v2.0,N.C.,N.C.,N.C.,N.C.,11,81.82,2-Low,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2015,409,Highland Hospital,,v1.42 - v2.0,289,54,22.06,AVERAGE,374,100,5-Highest,226,55.31,3-Middle,222,36.94,4-High
+2015,411,Rochester General Hospital,,v1.42 - v2.0,843,115,19.79,HIGH,1050,44.95,1-Lowest,486,68.93,4-High,471,47.13,5-Highest
+2015,413,Strong Memorial Hospital,,v1.42 - v2.0,875,186,23.04,HIGH,1044,94.44,4-High,637,47.1,2-Low,614,35.18,4-High
+2015,471,The Unity Hospital of Rochester,,v1.42 - v2.0,324,78,24.84,AVERAGE,375,96.8,4-High,133,66.17,4-High,128,30.47,3-Middle
+2015,484,St. Marys Healthcare,,v1.42 - v2.0,71,22,25.09,AVERAGE,87,98.85,4-High,66,57.58,3-Middle,65,29.23,3-Middle
+2015,490,Glen Cove Hospital,,v1.42 - v2.0,56,10,20.28,AVERAGE,58,100,5-Highest,56,71.43,5-Highest,56,37.5,4-High
+2015,511,Winthrop-University Hospital,,v1.42 - v2.0,779,157,22.52,HIGH,809,79.85,2-Low,567,53.44,3-Middle,564,38.3,4-High
+2015,513,Mercy Medical Center,,v1.42 - v2.0,256,84,23.59,AVERAGE,250,94.8,4-High,185,73.51,5-Highest,179,51.4,5-Highest
+2015,518,Franklin Hospital,,v1.42 - v2.0,255,80,27.71,AVERAGE,271,100,5-Highest,194,58.76,3-Middle,190,28.95,3-Middle
+2015,527,South Nassau Communities Hospital,,v1.42 - v2.0,683,227,26.81,AVERAGE,640,91.09,3-Middle,551,63.34,4-High,533,40.34,4-High
+2015,528,Nassau University Medical Center,,v1.42 - v2.0,464,172,33.01,LOW,455,72.31,2-Low,288,43.4,1-Lowest,280,23.57,2-Low
+2015,541,North Shore University Hospital,,v1.42 - v2.0,916,263,29.9,AVERAGE,1041,100,5-Highest,672,39.29,1-Lowest,669,20.03,1-Lowest
+2015,550,Syosset Hospital,,v1.42 - v2.0,112,31,31.1,AVERAGE,119,100,5-Highest,79,81.01,5-Highest,77,38.96,4-High
+2015,551,St. Joseph Hospital,,v1.42 - v2.0,235,71,27.55,AVERAGE,239,80.75,2-Low,173,58.96,3-Middle,164,38.41,4-High
+2015,552,Plainview Hospital,,v1.42 - v2.0,483,119,28.59,AVERAGE,505,100,5-Highest,353,70.54,5-Highest,348,41.09,4-High
+2015,563,St Francis Hospital,,v1.42 - v2.0,320,93,23.67,AVERAGE,330,92.42,3-Middle,214,58.88,3-Middle,210,31.9,3-Middle
+2015,565,Eastern Niagara Hospital - Lockport Division,,v1.42 - v2.0,17,8,31.07,AVERAGE,20,100,5-Highest,15,80,5-Highest,14,42.86,5-Highest
+2015,574,Niagara Falls Memorial Medical Center,,v1.42 - v2.0,53,19,32.19,AVERAGE,47,95.74,4-High,40,35,1-Lowest,40,15,1-Lowest
+2015,581,Degraff Memorial Hospital,,v1.42 - v2.0,62,12,20.96,AVERAGE,67,29.85,1-Lowest,11,63.64,4-High,11,36.36,4-High
+2015,583,Mount St Marys Hospital and Health Center,,v1.42 - v2.0,46,18,33.97,AVERAGE,52,63.46,1-Lowest,22,45.45,1-Lowest,22,9.09,1-Lowest
+2015,589,"Rome Memorial Hospital, Inc",,v1.42 - v2.0,106,36,29.16,AVERAGE,114,94.74,4-High,91,45.05,1-Lowest,89,20.22,1-Lowest
+2015,598,St Elizabeth Medical Center,,v1.42 - v2.0,134,57,30.31,AVERAGE,153,79.74,2-Low,86,39.53,1-Lowest,86,12.79,1-Lowest
+2015,599,Faxton-St Lukes Healthcare St Lukes Division,,v1.42 - v2.0,229,88,31.07,AVERAGE,247,78.95,2-Low,170,54.71,3-Middle,169,16.57,1-Lowest
+2015,628,Upstate University Hospital at Community General,,v1.42 - v2.0,240,32,17.74,HIGH,249,83.13,2-Low,180,62.22,4-High,178,41.01,4-High
+2015,630,St Josephs Hospital Health Center,,v1.42 - v2.0,392,59,15.39,HIGH,529,86.58,3-Middle,319,42.32,1-Lowest,306,23.2,2-Low
+2015,635,University Hospital SUNY Health Science Center (Syracuse),,v1.42 - v2.0,521,135,26.7,AVERAGE,698,76.93,2-Low,330,57.27,3-Middle,324,35.49,4-High
+2015,636,Crouse Hospital,,v1.42 - v2.0,292,102,44.63,LOW,319,89.66,3-Middle,191,30.37,1-Lowest,189,15.87,1-Lowest
+2015,671,Geneva General Hospital,,v1.42 - v2.0,46,22,30.17,AVERAGE,53,100,5-Highest,42,69.05,4-High,42,45.24,5-Highest
+2015,676,Clifton Springs Hospital and Clinic,,v1.42 - v2.0,30,9,27.41,AVERAGE,42,28.57,1-Lowest,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2015,678,F F Thompson Hospital,,v1.42 - v2.0,88,29,26.65,AVERAGE,102,92.16,3-Middle,69,60.87,4-High,69,30.43,3-Middle
+2015,694,St Lukes Cornwall Hospital/Newburgh,,v1.42 - v2.0,149,66,33.29,LOW,152,88.16,3-Middle,104,88.46,5-Highest,104,75,5-Highest
+2015,699,Orange Regional Medical Ctr-Goshen Campus,,v1.42 - v2.0,321,93,25.91,AVERAGE,334,63.77,1-Lowest,199,81.41,5-Highest,195,40,4-High
+2015,704,St Anthony Community Hospital,,v1.42 - v2.0,100,24,30.64,AVERAGE,105,80.95,2-Low,81,70.37,5-Highest,80,45,5-Highest
+2015,708,Bon Secours Community Hospital,,v1.42 - v2.0,194,22,18.5,HIGH,210,77.14,2-Low,153,79.74,5-Highest,153,62.75,5-Highest
+2015,718,Medina Memorial Health Care System,,v1.42 - v2.0,13,3,20.55,AVERAGE,20,100,5-Highest,12,41.67,1-Lowest,12,16.67,1-Lowest
+2015,727,Oswego Hospital,,v1.42 - v2.0,158,6,5.41,HIGH,204,75,2-Low,125,64.8,4-High,124,38.71,4-High
+2015,739,Aurelia Osborn Fox Memorial Hospital,,v1.42 - v2.0,13,8,53.95,LOW,16,87.5,3-Middle,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2015,746,Mary Imogene Bassett Hospital,,v1.42 - v2.0,130,31,27.69,AVERAGE,252,95.63,4-High,71,57.75,3-Middle,71,30.99,3-Middle
+2015,752,Putnam Hospital Center,,v1.42 - v2.0,81,34,32.77,AVERAGE,77,85.71,2-Low,61,70.49,5-Highest,55,47.27,5-Highest
+2015,755,St. Marys Hospital,,v1.42 - v2.0,54,5,8.31,HIGH,58,74.14,2-Low,38,81.58,5-Highest,38,39.47,4-High
+2015,756,Samaritan Hospital,,v1.42 - v2.0,138,23,16.18,HIGH,137,89.78,3-Middle,109,66.97,4-High,104,41.35,4-High
+2015,776,Nyack Hospital,,v1.42 - v2.0,447,107,20.36,HIGH,438,86.76,3-Middle,405,51.36,2-Low,367,27.25,3-Middle
+2015,779,Good Samaritan Hospital of Suffern,,v1.42 - v2.0,359,92,19.9,HIGH,342,71.35,2-Low,238,58.82,3-Middle,232,30.17,3-Middle
+2015,798,Claxton-Hepburn Medical Center,,v1.42 - v2.0,38,11,33.34,AVERAGE,48,87.5,3-Middle,29,51.72,2-Low,29,34.48,4-High
+2015,804,Massena Memorial Hospital,,v1.42 - v2.0,15,4,21.75,AVERAGE,21,100,5-Highest,17,64.71,4-High,16,31.25,3-Middle
+2015,812,Gouverneur Hospital,,v1.42 - v2.0,S.S.,S.S.,S.S.,S.S.,15,100,5-Highest,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2015,815,Canton-Potsdam Hospital,,v1.42 - v2.0,40,12,25.2,AVERAGE,49,89.8,3-Middle,27,51.85,2-Low,27,25.93,2-Low
+2015,818,Saratoga Hospital,,v1.42 - v2.0,205,55,26.62,AVERAGE,211,76.78,2-Low,155,72.26,5-Highest,152,50,5-Highest
+2015,829,Ellis Hospital,,v1.42 - v2.0,284,88,31.54,AVERAGE,350,80.86,2-Low,187,29.95,1-Lowest,187,10.7,1-Lowest
+2015,866,Corning Hospital,,v1.42 - v2.0,77,10,18.07,AVERAGE,92,71.74,2-Low,52,63.46,4-High,51,33.33,3-Middle
+2015,870,St James Mercy Hospital,,v1.42 - v2.0,15,0,0,AVERAGE,16,6.25,1-Lowest,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2015,885,Brookhaven Memorial Hospital Medical Center Inc,,v1.42 - v2.0,667,239,33.42,LOW,678,47.79,1-Lowest,323,65.02,4-High,316,37.34,4-High
+2015,889,Southampton Hospital,,v1.42 - v2.0,143,39,26.1,AVERAGE,149,98.66,4-High,129,59.69,3-Middle,128,42.19,5-Highest
+2015,891,Eastern Long Island Hospital,,v1.42 - v2.0,12,7,55.02,LOW,14,57.14,1-Lowest,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2015,895,John T Mather Memorial Hospital of Port Jefferson New York Inc,,v1.42 - v2.0,220,51,20.69,HIGH,247,97.98,4-High,205,45.85,2-Low,205,20.49,2-Low
+2015,896,St Charles Hospital,,v1.42 - v2.0,135,33,30.58,AVERAGE,129,96.9,4-High,98,66.33,4-High,96,51.04,5-Highest
+2015,913,Huntington Hospital,,v1.42 - v2.0,225,62,22.36,AVERAGE,239,100,5-Highest,191,72.25,5-Highest,191,28.27,3-Middle
+2015,924,Southside Hospital,,v1.42 - v2.0,110,32,32.6,AVERAGE,110,100,5-Highest,96,46.88,2-Low,96,20.83,2-Low
+2015,925,Good Samaritan Hospital Medical Center,,v1.42 - v2.0,674,212,29.79,AVERAGE,685,93.14,3-Middle,523,42.45,1-Lowest,518,25.1,2-Low
+2015,938,Peconic Bay Medical Center,,v1.42 - v2.0,131,41,33.12,AVERAGE,149,69.13,1-Lowest,93,58.06,3-Middle,92,34.78,4-High
+2015,943,St Catherine of Siena Hospital,,v1.42 - v2.0,583,117,22.88,HIGH,574,96.69,4-High,505,73.86,5-Highest,502,64.54,5-Highest
+2015,971,Catskill Regional Medical Center,,v1.42 - v2.0,72,28,32.96,AVERAGE,85,40,1-Lowest,31,83.87,5-Highest,31,45.16,5-Highest
+2015,977,Cayuga Medical Center at Ithaca,,v1.42 - v2.0,243,51,26.43,AVERAGE,254,49.61,1-Lowest,123,72.36,5-Highest,121,54.55,5-Highest
+2015,990,HealthAlliance Hospital Broadway Campus,,v1.42 - v2.0,140,54,27.22,AVERAGE,158,94.94,4-High,93,78.49,5-Highest,93,55.91,5-Highest
+2015,1005,Glens Falls Hospital,,v1.42 - v2.0,305,56,20.11,HIGH,307,43.65,1-Lowest,77,74.03,5-Highest,72,47.22,5-Highest
+2015,1028,Newark-Wayne Community Hospital,,v1.42 - v2.0,87,17,26.54,AVERAGE,98,54.08,1-Lowest,52,69.23,4-High,52,46.15,5-Highest
+2015,1039,Hudson Valley Hospital Center,,v1.42 - v2.0,275,80,26.59,AVERAGE,274,79.56,2-Low,204,71.08,5-Highest,198,43.43,5-Highest
+2015,1045,White Plains Hospital Center,,v1.42 - v2.0,339,84,25.96,AVERAGE,331,87.31,3-Middle,231,49.35,2-Low,226,25.22,2-Low
+2015,1061,Montefiore Mount Vernon Hospital,,v1.42 - v2.0,83,18,18.8,AVERAGE,96,95.83,4-High,63,33.33,1-Lowest,63,15.87,1-Lowest
+2015,1072,Montefiore New Rochelle Hospital,,v1.42 - v2.0,335,90,28.59,AVERAGE,330,97.88,4-High,289,42.56,1-Lowest,289,22.49,2-Low
+2015,1097,SJRH - Andrus Pavilion,,v1.42 - v2.0,149,46,25.14,AVERAGE,158,31.65,1-Lowest,49,69.39,5-Highest,48,41.67,4-High
+2015,1098,St Josephs Medical Center,,v1.42 - v2.0,110,34,27.82,AVERAGE,115,43.48,1-Lowest,41,73.17,5-Highest,41,17.07,1-Lowest
+2015,1117,Northern Westchester Hospital,,v1.42 - v2.0,150,39,23.04,AVERAGE,165,100,5-Highest,96,54.17,3-Middle,94,26.6,2-Low
+2015,1122,Lawrence Hospital Center,,v1.42 - v2.0,122,40,26.18,AVERAGE,119,83.19,2-Low,67,80.6,5-Highest,67,28.36,3-Middle
+2015,1129,Phelps Memorial Hospital Assn,,v1.42 - v2.0,156,21,16.04,HIGH,185,99.46,4-High,146,64.38,4-High,139,33.81,4-High
+2015,1139,Westchester Medical Center,,v1.42 - v2.0,229,85,30.2,AVERAGE,373,97.59,4-High,95,41.05,1-Lowest,94,21.28,2-Low
+2015,1153,Wyoming County Community Hospital,,v1.42 - v2.0,15,4,33.15,AVERAGE,17,41.18,1-Lowest,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2015,1158,Soldiers and Sailors Memorial Hospital of Yates County Inc,,v1.42 - v2.0,12,6,48.7,AVERAGE,15,100,5-Highest,11,63.64,4-High,S.S.,S.S.,S.S.
+2015,1165,Jacobi Medical Center,,v1.42 - v2.0,455,116,23.59,AVERAGE,421,90.02,3-Middle,281,48.04,2-Low,280,24.29,2-Low
+2015,1168,Montefiore Medical Center-Wakefield Hospital,,v1.42 - v2.0,571,124,22.33,HIGH,575,4,1-Lowest,22,18.18,1-Lowest,22,9.09,1-Lowest
+2015,1169,Montefiore Medical Center - Henry & Lucy Moses Div,,v1.42 - v2.0,"1,143",337,28.34,AVERAGE,1185,21.77,1-Lowest,275,7.27,1-Lowest,259,2.7,1-Lowest
+2015,1172,Lincoln Medical & Mental Health Center,,v1.42 - v2.0,189,73,30.34,AVERAGE,201,93.53,3-Middle,115,53.04,3-Middle,115,39.13,4-High
+2015,1176,SBH Health System,,v1.42 - v2.0,274,70,21.7,HIGH,279,90.68,3-Middle,206,48.54,2-Low,205,30.24,3-Middle
+2015,1178,Bronx-Lebanon Hospital Center - Concourse Division,,v1.42 - v2.0,329,89,22.03,HIGH,310,90.32,3-Middle,159,26.42,1-Lowest,157,16.56,1-Lowest
+2015,1186,North Central Bronx Hospital,,v1.42 - v2.0,49,13,27.66,AVERAGE,56,85.71,2-Low,31,70.97,5-Highest,31,45.16,5-Highest
+2015,1286,Brookdale Hospital Medical Center,,v1.42 - v2.0,74,29,29.41,AVERAGE,74,100,5-Highest,72,52.78,2-Low,72,8.33,1-Lowest
+2015,1288,Brooklyn Hospital Center - Downtown Campus,,v1.42 - v2.0,51,22,26.18,AVERAGE,52,100,5-Highest,51,68.63,4-High,50,30,3-Middle
+2015,1293,"New York Community Hospital of Brooklyn, Inc",,v1.42 - v2.0,103,42,31.51,AVERAGE,104,75,2-Low,79,86.08,5-Highest,77,40.26,4-High
+2015,1294,Coney Island Hospital,,v1.42 - v2.0,293,73,22.03,HIGH,294,100,5-Highest,288,64.93,4-High,287,45.99,5-Highest
+2015,1301,Kings County Hospital Center,,v1.42 - v2.0,384,127,28.92,AVERAGE,401,99.75,4-High,273,47.25,2-Low,270,27.04,2-Low
+2015,1304,Lutheran Medical Center,,v1.42 - v2.0,622,196,26.35,AVERAGE,634,99.37,4-High,490,57.96,3-Middle,486,34.98,4-High
+2015,1305,Maimonides Medical Center,,v1.42 - v2.0,573,167,20.09,HIGH,537,99.07,4-High,455,36.48,1-Lowest,454,14.1,1-Lowest
+2015,1306,New York Methodist Hospital,,v1.42 - v2.0,160,40,17.08,HIGH,232,100,5-Highest,160,13.75,1-Lowest,148,2.03,1-Lowest
+2015,1309,Interfaith Medical Center,,v1.42 - v2.0,123,57,29.87,AVERAGE,122,86.07,3-Middle,45,46.67,2-Low,45,28.89,3-Middle
+2015,1315,Kingsbrook Jewish Medical Center,,v1.42 - v2.0,272,116,27.88,AVERAGE,274,100,5-Highest,241,52.7,2-Low,240,25,2-Low
+2015,1318,Wyckoff Heights Medical Center,,v1.42 - v2.0,241,72,24.13,AVERAGE,237,68.78,1-Lowest,118,60.17,3-Middle,114,29.82,3-Middle
+2015,1320,University Hospital of Brooklyn,,v1.42 - v2.0,326,125,33.78,LOW,314,99.04,4-High,220,40.45,1-Lowest,214,22.43,2-Low
+2015,1324,Mount Sinai Beth Israel Brooklyn,,v1.42 - v2.0,290,108,33.26,LOW,279,100,5-Highest,208,73.08,5-Highest,205,47.32,5-Highest
+2015,1437,New York-Presbyterian/Lower Manhattan Hospital,,v1.42 - v2.0,184,62,25.01,AVERAGE,178,100,5-Highest,129,52.71,2-Low,117,32.48,3-Middle
+2015,1438,Bellevue Hospital Center,,v1.42 - v2.0,454,61,16.15,HIGH,513,99.81,4-High,339,59.29,3-Middle,336,41.07,4-High
+2015,1439,Mount Sinai Beth Israel,,v1.42 - v2.0,422,89,21.32,HIGH,432,95.6,4-High,324,63.58,4-High,324,50.31,5-Highest
+2015,1445,Harlem Hospital Center,,v1.42 - v2.0,174,62,27.49,AVERAGE,167,98.2,4-High,125,42.4,1-Lowest,123,13.82,1-Lowest
+2015,1450,Lenox Hill Hospital,,v1.42 - v2.0,509,101,23.37,AVERAGE,525,100,5-Highest,388,65.98,4-High,385,33.77,3-Middle
+2015,1453,Memorial Hospital for Cancer and Allied Diseases,,v1.42 - v2.0,396,150,25.91,AVERAGE,434,89.4,3-Middle,94,65.96,4-High,94,44.68,5-Highest
+2015,1454,Metropolitan Hospital Center,,v1.42 - v2.0,52,14,24.73,AVERAGE,54,96.3,4-High,50,46,2-Low,50,16,1-Lowest
+2015,1456,Mount Sinai Hospital,,v1.42 - v2.0,833,231,25.74,AVERAGE,849,100,5-Highest,359,39,1-Lowest,355,23.66,2-Low
+2015,1458,New York Presbyterian Hospital - New York Weill Cornell Center,,v1.42 - v2.0,619,208,26.92,AVERAGE,595,99.83,4-High,392,48.98,2-Low,359,16.71,1-Lowest
+2015,1463,NYU Hospitals Center,,v1.42 - v2.0,399,99,18.75,HIGH,340,88.82,3-Middle,221,77.83,5-Highest,211,68.72,5-Highest
+2015,1464,New York Presbyterian Hospital - Columbia Presbyterian Center,,v1.42 - v2.0,810,258,26.43,AVERAGE,839,99.88,4-High,496,31.65,1-Lowest,480,13.54,1-Lowest
+2015,1466,Mount Sinai Roosevelt,,v1.42 - v2.0,472,51,13.36,HIGH,483,89.86,3-Middle,375,56,3-Middle,367,38.96,4-High
+2015,1469,Mount Sinai St. Lukes,,v1.42 - v2.0,685,113,17.3,HIGH,673,93.61,3-Middle,564,53.01,3-Middle,555,38.74,4-High
+2015,1626,Elmhurst Hospital Center,,v1.42 - v2.0,420,120,27.28,AVERAGE,427,98.59,4-High,320,54.06,3-Middle,316,26.9,2-Low
+2015,1628,Flushing Hospital Medical Center,,v1.42 - v2.0,238,93,26.13,AVERAGE,236,98.31,4-High,191,52.88,2-Low,191,21.99,2-Low
+2015,1629,Jamaica Hospital Medical Center,,v1.42 - v2.0,380,126,23.31,HIGH,392,54.59,1-Lowest,189,54.5,3-Middle,185,19.46,1-Lowest
+2015,1630,Long Island Jewish Medical Center,,v1.42 - v2.0,754,151,28.75,AVERAGE,781,100,5-Highest,577,50.78,2-Low,575,28.17,3-Middle
+2015,1633,Queens Hospital Center,,v1.42 - v2.0,330,98,27.71,AVERAGE,350,97.71,4-High,248,51.21,2-Low,241,19.5,1-Lowest
+2015,1635,St Johns Episcopal Hospital So Shore,,v1.42 - v2.0,443,141,27.49,AVERAGE,452,36.73,1-Lowest,134,61.94,4-High,134,32.09,3-Middle
+2015,1637,New York Hospital Medical Center of Queens,,v1.42 - v2.0,"1,020",254,22.19,HIGH,1088,94.49,4-High,"1,043",43.53,1-Lowest,995,24.72,2-Low
+2015,1638,Forest Hills Hospital,,v1.42 - v2.0,554,143,29.52,AVERAGE,570,100,5-Highest,399,67.67,4-High,391,36.83,4-High
+2015,1639,Mount Sinai Hospital - Mount Sinai Hospital of Queens,,v1.42 - v2.0,262,87,27.14,AVERAGE,244,100,5-Highest,206,52.91,3-Middle,200,33.5,3-Middle
+2015,1692,Woodhull Medical & Mental Health Center,,v1.42 - v2.0,201,73,27.93,AVERAGE,207,99.52,4-High,108,46.3,2-Low,107,16.82,1-Lowest
+2015,1737,Staten Island University Hosp-South,,v1.42 - v2.0,165,47,33.86,AVERAGE,166,100,5-Highest,121,52.89,2-Low,121,40.5,4-High
+2015,1738,Richmond University Medical Center,,v1.42 - v2.0,345,139,26.13,AVERAGE,341,91.5,3-Middle,123,46.34,2-Low,123,16.26,1-Lowest
+2015,1740,Staten Island University Hosp-North,,v1.42 - v2.0,961,301,32.47,LOW,990,99.49,4-High,603,41.63,1-Lowest,599,29.38,3-Middle
+2015,3058,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,,v1.42 - v2.0,"1,177",325,27.63,AVERAGE,1192,12,1-Lowest,147,12.93,1-Lowest,140,5.71,1-Lowest
+2015,3067,Millard Fillmore Suburban Hospital,,v1.42 - v2.0,388,86,23.15,AVERAGE,411,27.01,1-Lowest,36,52.78,2-Low,36,27.78,3-Middle
+2015,3975,New York Presbyterian Hospital - Allen Hospital,,v1.42 - v2.0,169,42,22.49,AVERAGE,184,100,5-Highest,161,52.17,2-Low,137,21.17,2-Low
+2015,8554,Tri Town Regional Healthcare,,v1.42 - v2.0,N.C.,N.C.,N.C.,N.C.,11,63.64,1-Lowest,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2016,0,STATEWIDE,,v3.0,"47,081","11,982",25.45,N.A.,50461,83.48,N.A.,"32,472",56.88,N.A.,"31,886",36.38,N.A.
+2016,1,Albany Medical Center Hospital,,v3.0,488,143,23.24,AVERAGE,825,95.5,4-High,326,35,1-Lowest,325,22.5,1-Lowest
+2016,4,Albany Memorial Hospital,,v3.0,92,10,15.42,AVERAGE,98,74.5,2-Low,62,58.1,3-Middle,61,34.4,3-Middle
+2016,5,St Peters Hospital,,v3.0,451,80,15.93,HIGH,486,99.2,4-High,334,59.3,3-Middle,328,32.3,3-Middle
+2016,39,Memorial Hosp of Wm F & Gertrude F Jones A/K/A Jones Memorial Hosp,,v3.0,36,4,14.51,AVERAGE,41,100,5-Highest,32,68.8,4-High,32,43.8,4-High
+2016,42,United Health Services Hospitals Inc. - Binghamton General Hospital,,v3.0,59,12,19.9,AVERAGE,63,71.4,2-Low,33,45.5,1-Lowest,33,15.2,1-Lowest
+2016,43,Our Lady of Lourdes Memorial Hospital Inc,,v3.0,205,55,33.54,LOW,213,99.1,4-High,183,53,2-Low,183,34.4,3-Middle
+2016,58,United Health Services Hospitals Inc. - Wilson Medical Center,,v3.0,314,71,23.92,AVERAGE,352,73.3,2-Low,193,64.2,4-High,191,37.2,3-Middle
+2016,66,Olean General Hospital,,v3.0,159,32,19.62,AVERAGE,176,100,5-Highest,135,47.4,1-Lowest,131,26.7,2-Low
+2016,85,Auburn Community Hospital,,v3.0,102,40,45.1,LOW,107,57,1-Lowest,48,41.7,1-Lowest,48,33.3,3-Middle
+2016,98,Brooks Memorial Hospital,,v3.0,44,6,15.52,AVERAGE,54,48.1,1-Lowest,22,36.4,1-Lowest,21,28.6,2-Low
+2016,103,Womans Christian Association,,v3.0,94,20,19.06,AVERAGE,121,52.9,1-Lowest,54,64.8,4-High,52,32.7,3-Middle
+2016,116,Arnot Ogden Medical Center,,v3.0,168,36,18.3,HIGH,225,95.1,4-High,136,54.4,2-Low,133,15,1-Lowest
+2016,128,Chenango Memorial Hospital Inc,,v3.0,23,6,22.27,AVERAGE,35,100,5-Highest,22,81.8,5-Highest,22,40.9,4-High
+2016,135,Champlain Valley Physicians Hospital Medical Center,,v3.0,236,47,15.96,HIGH,269,48.7,1-Lowest,92,84.8,5-Highest,92,45.7,4-High
+2016,146,Columbia Memorial Hospital,,v3.0,38,14,27.43,AVERAGE,42,90.5,3-Middle,33,60.6,3-Middle,33,21.2,1-Lowest
+2016,158,Cortland Regional Medical Center Inc,,v3.0,130,33,31.38,AVERAGE,146,97.3,4-High,121,47.9,2-Low,120,25,2-Low
+2016,165,OConnor Hospital,,v3.0,S.S.,S.S.,S.S.,S.S.,12,100,5-Highest,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2016,180,St Francis Hospital - Poughkeepsie,,v3.0,110,23,21.43,AVERAGE,112,87.5,3-Middle,77,66.2,4-High,74,44.6,4-High
+2016,181,Vassar Brothers Medical Center,,v3.0,770,166,20.82,HIGH,777,80.4,2-Low,585,79,5-Highest,573,65.3,5-Highest
+2016,192,Northern Dutchess Hospital,,v3.0,42,16,28.02,AVERAGE,42,83.3,2-Low,34,70.6,4-High,31,48.4,5-Highest
+2016,207,Buffalo General Medical Center,,v3.0,643,235,31.4,LOW,772,45.2,1-Lowest,202,43.6,1-Lowest,200,22,1-Lowest
+2016,208,Women And Childrens Hospital Of Buffalo,,v3.0,S.S.,S.S.,S.S.,S.S.,11,72.7,2-Low,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2016,210,Erie County Medical Center,,v3.0,241,69,23.74,AVERAGE,239,97.5,4-High,133,39.1,1-Lowest,128,23.4,2-Low
+2016,213,Mercy Hospital,,v3.0,511,154,25.45,AVERAGE,526,66.5,1-Lowest,328,57.9,3-Middle,318,30.2,2-Low
+2016,216,Roswell Park Cancer Institute,,v3.0,70,18,20.56,AVERAGE,93,100,5-Highest,N.C.,N.C.,N.C.,N.C.,N.C.,N.C.
+2016,218,Sisters of Charity Hospital,,v3.0,107,35,28.96,AVERAGE,126,77,2-Low,76,72.4,4-High,76,30.3,2-Low
+2016,245,University Hospital,,v3.0,880,168,19.77,HIGH,937,97.8,4-High,754,51.9,2-Low,737,30.9,2-Low
+2016,267,Kenmore Mercy Hospital,,v3.0,253,53,26.29,AVERAGE,256,66.8,1-Lowest,167,73.7,5-Highest,167,34.7,3-Middle
+2016,280,Bertrand Chaffee Hospital,,v3.0,S.S.,S.S.,S.S.,S.S.,12,91.7,3-Middle,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2016,292,Sisters of Charity Hospital - St Joseph Campus,,v3.0,64,22,27.41,AVERAGE,63,79.4,2-Low,41,68.3,4-High,40,37.5,3-Middle
+2016,303,Elizabethtown Community Hospital,,v3.0,23,1,9.31,AVERAGE,43,93,3-Middle,20,80,5-Highest,20,45,4-High
+2016,309,Moses-Ludington Hospital,,v3.0,11,0,0,AVERAGE,26,92.3,3-Middle,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2016,324,Adirondack Medical Center-Saranac Lake Site,,v3.0,21,5,17.89,AVERAGE,25,32,1-Lowest,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2016,325,Alice Hyde Medical Center,,v3.0,31,4,15.93,AVERAGE,38,76.3,2-Low,22,72.7,5-Highest,21,42.9,4-High
+2016,330,Nathan Littauer Hospital,,v3.0,72,14,17.33,AVERAGE,123,24.4,1-Lowest,15,93.3,5-Highest,15,86.7,5-Highest
+2016,339,United Memorial Medical Center North Street Campus,,v3.0,120,20,19.21,AVERAGE,153,94.8,3-Middle,109,61.5,3-Middle,108,45.4,4-High
+2016,362,Little Falls Hospital,,v3.0,24,2,13.69,AVERAGE,74,93.2,3-Middle,19,47.4,1-Lowest,19,31.6,3-Middle
+2016,367,Samaritan Medical Center,,v3.0,135,16,13.21,HIGH,149,87.2,3-Middle,101,62.4,3-Middle,97,29.9,2-Low
+2016,377,"River Hospital, Inc.",,v3.0,S.S.,S.S.,S.S.,S.S.,14,57.1,1-Lowest,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2016,379,Carthage Area Hospital Inc,,v3.0,S.S.,S.S.,S.S.,S.S.,24,100,5-Highest,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2016,383,Lewis County General Hospital,,v3.0,21,2,14.94,AVERAGE,32,15.6,1-Lowest,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2016,393,Nicholas H Noyes Memorial Hospital,,v3.0,13,5,27,AVERAGE,15,93.3,3-Middle,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2016,397,Oneida Healthcare,,v3.0,14,5,25.58,AVERAGE,21,100,5-Highest,12,58.3,3-Middle,12,16.7,1-Lowest
+2016,409,Highland Hospital,,v3.0,367,69,22.68,AVERAGE,424,95,4-High,294,62.6,3-Middle,288,45.5,4-High
+2016,411,Rochester General Hospital,,v3.0,897,104,17.15,HIGH,1041,76.3,2-Low,734,62.1,3-Middle,694,44.1,4-High
+2016,413,Strong Memorial Hospital,,v3.0,794,159,22.83,AVERAGE,954,95.5,4-High,580,43.1,1-Lowest,552,33.5,3-Middle
+2016,471,The Unity Hospital of Rochester,,v3.0,207,34,20.44,AVERAGE,236,95.3,4-High,136,64,3-Middle,129,27.9,2-Low
+2016,484,St. Marys Healthcare,,v3.0,73,24,27.59,AVERAGE,91,100,5-Highest,62,56.5,2-Low,61,27.9,2-Low
+2016,490,Glen Cove Hospital,,v3.0,97,19,21.94,AVERAGE,103,100,5-Highest,86,70.9,4-High,86,55.8,5-Highest
+2016,511,Winthrop-University Hospital,,v3.0,842,145,21.4,HIGH,883,76.1,2-Low,601,55.6,2-Low,599,41.9,4-High
+2016,513,Mercy Medical Center,,v3.0,253,79,26.72,AVERAGE,259,97.3,4-High,209,77,5-Highest,201,63.7,5-Highest
+2016,518,Franklin Hospital,,v3.0,213,86,29.67,AVERAGE,224,100,5-Highest,171,62,3-Middle,168,44.6,4-High
+2016,527,South Nassau Communities Hospital,,v3.0,572,195,25.58,AVERAGE,573,90.2,3-Middle,463,69.8,4-High,453,41.3,4-High
+2016,528,Nassau University Medical Center,,v3.0,465,155,30.21,LOW,436,74.1,2-Low,297,59.6,3-Middle,287,33.1,3-Middle
+2016,541,North Shore University Hospital,,v3.0,945,274,27.97,AVERAGE,1040,100,5-Highest,727,46.4,1-Lowest,727,24.8,2-Low
+2016,550,Syosset Hospital,,v3.0,70,21,32.24,AVERAGE,78,100,5-Highest,60,91.7,5-Highest,59,64.4,5-Highest
+2016,551,St. Joseph Hospital,,v3.0,274,57,20.49,AVERAGE,292,94.5,3-Middle,241,71,4-High,238,61.3,5-Highest
+2016,552,Plainview Hospital,,v3.0,202,52,25.12,AVERAGE,215,100,5-Highest,153,72.5,4-High,153,41.2,4-High
+2016,563,St Francis Hospital,,v3.0,366,141,28.2,AVERAGE,380,94.2,3-Middle,265,62.3,3-Middle,254,32.7,3-Middle
+2016,565,Eastern Niagara Hospital - Lockport Division,,v3.0,S.S.,S.S.,S.S.,S.S.,12,91.7,3-Middle,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2016,574,Niagara Falls Memorial Medical Center,,v3.0,56,23,34.18,AVERAGE,61,93.4,3-Middle,43,58.1,3-Middle,43,25.6,2-Low
+2016,581,Degraff Memorial Hospital,,v3.0,62,4,8.55,HIGH,65,46.2,1-Lowest,20,50,2-Low,20,20,1-Lowest
+2016,583,Mount St Marys Hospital and Health Center,,v3.0,188,36,25.53,AVERAGE,190,48.9,1-Lowest,78,70.5,4-High,78,39.7,4-High
+2016,589,"Rome Memorial Hospital, Inc",,v3.0,149,28,20.08,AVERAGE,166,98.8,4-High,134,55.2,2-Low,132,26.5,2-Low
+2016,598,St Elizabeth Medical Center,,v3.0,167,80,31.33,LOW,179,86.6,2-Low,121,44.6,1-Lowest,119,16,1-Lowest
+2016,599,Faxton-St Lukes Healthcare St Lukes Division,,v3.0,244,112,30.21,LOW,272,51.5,1-Lowest,127,64.6,4-High,127,27.6,2-Low
+2016,628,Upstate University Hospital at Community General,,v3.0,133,30,22.57,AVERAGE,131,74,2-Low,84,79.8,5-Highest,82,50,5-Highest
+2016,630,St Josephs Hospital Health Center,,v3.0,458,82,19.06,HIGH,568,89.6,3-Middle,422,54,2-Low,399,32.3,3-Middle
+2016,635,University Hospital SUNY Health Science Center,,v3.0,442,142,33.47,LOW,565,69,1-Lowest,278,64.7,4-High,275,41.1,4-High
+2016,636,Crouse Hospital,,v3.0,215,66,34.54,LOW,241,80.1,2-Low,138,56.5,2-Low,137,38,3-Middle
+2016,671,Geneva General Hospital,,v3.0,62,24,31.86,AVERAGE,71,100,5-Highest,54,72.2,4-High,54,48.1,4-High
+2016,676,Clifton Springs Hospital and Clinic,,v3.0,63,9,21.63,AVERAGE,76,42.1,1-Lowest,25,40,1-Lowest,25,32,3-Middle
+2016,678,F F Thompson Hospital,,v3.0,94,25,23.44,AVERAGE,102,95.1,4-High,86,50,2-Low,86,29.1,2-Low
+2016,694,St Lukes Cornwall Hospital/Newburgh,,v3.0,186,55,24.69,AVERAGE,184,90.8,3-Middle,140,85,5-Highest,140,74.3,5-Highest
+2016,699,Orange Regional Medical Ctr-Goshen Campus,,v3.0,542,118,23.16,AVERAGE,599,63.6,1-Lowest,330,72.4,4-High,328,34.8,3-Middle
+2016,704,St Anthony Community Hospital,,v3.0,86,12,17.61,AVERAGE,93,73.1,2-Low,60,60,3-Middle,59,27.1,2-Low
+2016,708,Bon Secours Community Hospital,,v3.0,135,23,23.44,AVERAGE,141,64.5,1-Lowest,83,62.7,3-Middle,83,38.6,3-Middle
+2016,718,Medina Memorial Health Care System,,v3.0,S.S.,S.S.,S.S.,S.S.,13,38.5,1-Lowest,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2016,727,Oswego Hospital,,v3.0,250,30,17.97,HIGH,275,81.8,2-Low,189,66.1,4-High,189,54,5-Highest
+2016,739,Aurelia Osborn Fox Memorial Hospital,,v3.0,42,12,24.76,AVERAGE,55,92.7,3-Middle,35,57.1,3-Middle,34,38.2,3-Middle
+2016,746,Mary Imogene Bassett Hospital,,v3.0,119,28,22.88,AVERAGE,199,92,3-Middle,79,78.5,5-Highest,79,44.3,4-High
+2016,752,Putnam Hospital Center,,v3.0,220,36,21.23,AVERAGE,233,96.1,4-High,195,78.5,5-Highest,190,69.5,5-Highest
+2016,755,St. Marys Hospital,,v3.0,55,4,8.07,HIGH,60,80,2-Low,39,89.7,5-Highest,39,76.9,5-Highest
+2016,756,Samaritan Hospital,,v3.0,163,36,19.39,AVERAGE,160,58.8,1-Lowest,81,72.8,5-Highest,77,53.2,5-Highest
+2016,776,Nyack Hospital,,v3.0,376,95,21.05,HIGH,368,83.7,2-Low,313,66.8,4-High,296,45.6,4-High
+2016,779,Good Samaritan Hospital of Suffern,,v3.0,513,108,15.52,HIGH,527,61.9,1-Lowest,319,50.2,2-Low,316,19,1-Lowest
+2016,798,Claxton-Hepburn Medical Center,,v3.0,45,9,26.29,AVERAGE,63,79.4,2-Low,37,78.4,5-Highest,36,36.1,3-Middle
+2016,804,Massena Memorial Hospital,,v3.0,22,3,13.34,AVERAGE,28,25,1-Lowest,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2016,815,Canton-Potsdam Hospital,,v3.0,32,5,12.85,AVERAGE,40,85,2-Low,27,74.1,5-Highest,27,55.6,5-Highest
+2016,818,Saratoga Hospital,,v3.0,198,50,25.53,AVERAGE,205,78,2-Low,151,78.1,5-Highest,147,59.2,5-Highest
+2016,829,Ellis Hospital,,v3.0,236,83,29.73,AVERAGE,297,85.2,2-Low,186,46.8,1-Lowest,181,25.4,2-Low
+2016,858,Schuyler Hospital,,v3.0,S.S.,S.S.,S.S.,S.S.,13,100,5-Highest,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2016,866,Corning Hospital,,v3.0,112,21,20.36,AVERAGE,128,82.8,2-Low,92,46.7,1-Lowest,92,19.6,1-Lowest
+2016,870,St James Mercy Hospital,,v3.0,13,4,36.6,AVERAGE,14,28.6,1-Lowest,S.S.,S.S.,S.S.,S.S.,S.S.,S.S.
+2016,885,Brookhaven Memorial Hospital Medical Center Inc,,v3.0,638,148,25.93,AVERAGE,654,55.7,1-Lowest,357,68.6,4-High,352,56.5,5-Highest
+2016,889,Southampton Hospital,,v3.0,140,28,21.56,AVERAGE,146,100,5-Highest,128,64.8,4-High,127,50.4,5-Highest
+2016,891,Eastern Long Island Hospital,,v3.0,20,6,25.96,AVERAGE,25,92,3-Middle,15,66.7,4-High,14,35.7,3-Middle
+2016,895,John T Mather Memorial Hospital of Port Jefferson New York Inc,,v3.0,391,79,16.52,HIGH,402,97.8,4-High,361,49,2-Low,360,26.1,2-Low
+2016,896,St Charles Hospital,,v3.0,207,22,17.36,HIGH,221,93.2,3-Middle,170,62.9,3-Middle,169,56.2,5-Highest
+2016,913,Huntington Hospital,,v3.0,378,78,20.31,HIGH,398,100,5-Highest,332,59.9,3-Middle,330,41.8,4-High
+2016,924,Southside Hospital,,v3.0,271,64,31.05,AVERAGE,276,100,5-Highest,224,56.7,3-Middle,223,28.3,2-Low
+2016,925,Good Samaritan Hospital Medical Center,,v3.0,770,184,28.5,AVERAGE,782,99.6,4-High,656,66,4-High,644,54.2,5-Highest
+2016,938,Peconic Bay Medical Center,,v3.0,211,51,27.21,AVERAGE,226,84.1,2-Low,164,55.5,2-Low,162,30.9,2-Low
+2016,943,St Catherine of Siena Hospital,,v3.0,661,107,20.69,HIGH,662,98.9,4-High,602,75.4,5-Highest,591,64,5-Highest
+2016,971,Catskill Regional Medical Center,,v3.0,82,30,34.69,LOW,91,50.5,1-Lowest,39,87.2,5-Highest,39,15.4,1-Lowest
+2016,977,Cayuga Medical Center at Ithaca,,v3.0,196,39,29.57,AVERAGE,203,63.1,1-Lowest,126,65.1,4-High,124,39.5,3-Middle
+2016,990,HealthAlliance Hospital Broadway Campus,,v3.0,168,67,29.52,AVERAGE,195,94.9,4-High,129,65.9,4-High,127,39.4,3-Middle
+2016,1005,Glens Falls Hospital,,v3.0,278,47,16.8,HIGH,270,65.2,1-Lowest,125,62.4,3-Middle,121,34.7,3-Middle
+2016,1028,Newark-Wayne Community Hospital,,v3.0,53,3,9.82,AVERAGE,73,71.2,2-Low,44,72.7,5-Highest,40,50,5-Highest
+2016,1039,Hudson Valley Hospital Center,,v3.0,307,111,28.1,AVERAGE,323,86.7,2-Low,262,74,5-Highest,254,47.6,4-High
+2016,1045,White Plains Hospital Center,,v3.0,298,88,27.74,AVERAGE,304,93.8,3-Middle,234,53.4,2-Low,232,26.7,2-Low
+2016,1061,Montefiore Mount Vernon Hospital,,v3.0,68,12,16.08,AVERAGE,78,98.7,4-High,63,44.4,1-Lowest,63,19,1-Lowest
+2016,1072,Montefiore New Rochelle Hospital,,v3.0,241,82,34.74,LOW,248,91.9,3-Middle,198,51,2-Low,198,27.8,2-Low
+2016,1097,SJRH - Andrus Pavilion,,v3.0,215,66,27.15,AVERAGE,215,63.7,1-Lowest,121,77.7,5-Highest,121,38.8,3-Middle
+2016,1098,St Josephs Medical Center,,v3.0,103,27,23.26,AVERAGE,108,90.7,3-Middle,87,60.9,3-Middle,87,44.8,4-High
+2016,1117,Northern Westchester Hospital,,v3.0,184,47,23.29,AVERAGE,198,96.5,4-High,133,80.5,5-Highest,132,50.8,5-Highest
+2016,1122,Lawrence Hospital Center,,v3.0,237,43,20.31,AVERAGE,239,88.3,3-Middle,180,75,5-Highest,173,42.2,4-High
+2016,1129,Phelps Memorial Hospital Assn,,v3.0,346,46,18.3,HIGH,364,100,5-Highest,308,73.1,5-Highest,305,54.8,5-Highest
+2016,1139,Westchester Medical Center,,v3.0,193,85,34.66,LOW,313,99.4,4-High,90,57.8,3-Middle,88,34.1,3-Middle
+2016,1153,Wyoming County Community Hospital,,v3.0,32,8,36.16,AVERAGE,34,100,5-Highest,30,80,5-Highest,30,53.3,5-Highest
+2016,1165,Jacobi Medical Center,,v3.0,416,124,25.78,AVERAGE,369,98.1,4-High,291,53.3,2-Low,276,33.7,3-Middle
+2016,1168,Montefiore Medical Center-Wakefield Hospital,,v3.0,496,135,24.3,AVERAGE,505,5.5,1-Lowest,20,50,2-Low,20,10,1-Lowest
+2016,1169,Montefiore Medical Center - Henry & Lucy Moses Div,,v3.0,907,314,30.64,LOW,1001,9.6,1-Lowest,73,19.2,1-Lowest,69,7.2,1-Lowest
+2016,1172,Lincoln Medical & Mental Health Center,,v3.0,208,78,26.01,AVERAGE,227,96.9,4-High,157,38.2,1-Lowest,157,20.4,1-Lowest
+2016,1176,SBH Health System,,v3.0,362,74,22.68,AVERAGE,363,91.5,3-Middle,274,41.2,1-Lowest,273,21.6,1-Lowest
+2016,1178,Bronx-Lebanon Hospital Center - Concourse Division,,v3.0,696,187,25.48,AVERAGE,654,84.3,2-Low,274,48.2,2-Low,273,26.4,2-Low
+2016,1186,North Central Bronx Hospital,,v3.0,50,9,24.02,AVERAGE,61,86.9,3-Middle,39,64.1,4-High,39,35.9,3-Middle
+2016,1286,Brookdale Hospital Medical Center,,v3.0,63,24,21.23,AVERAGE,64,89.1,3-Middle,56,10.7,1-Lowest,56,0,1-Lowest
+2016,1288,Brooklyn Hospital Center - Downtown Campus,,v3.0,456,91,18.73,HIGH,463,91.1,3-Middle,410,51,2-Low,406,40.1,4-High
+2016,1293,"New York Community Hospital of Brooklyn, Inc",,v3.0,172,64,31.02,AVERAGE,170,81.2,2-Low,139,84.9,5-Highest,135,56.3,5-Highest
+2016,1294,Coney Island Hospital,,v3.0,293,68,25.7,AVERAGE,292,100,5-Highest,291,55.7,2-Low,288,39.9,4-High
+2016,1301,Kings County Hospital Center,,v3.0,291,111,30.92,LOW,304,99.7,4-High,220,55.9,2-Low,219,37,3-Middle
+2016,1304,Lutheran Medical Center,,v3.0,572,194,26.67,AVERAGE,599,99.8,5-Highest,403,64.8,4-High,400,52.5,5-Highest
+2016,1305,Maimonides Medical Center,,v3.0,633,155,18.73,HIGH,567,98.9,4-High,522,42.7,1-Lowest,521,20.5,1-Lowest
+2016,1306,New York Methodist Hospital,,v3.0,284,69,18.68,HIGH,328,100,5-Highest,269,34.9,1-Lowest,248,12.5,1-Lowest
+2016,1309,Interfaith Medical Center,,v3.0,156,59,25.32,AVERAGE,156,95.5,4-High,117,34.2,1-Lowest,115,14.8,1-Lowest
+2016,1315,Kingsbrook Jewish Medical Center,,v3.0,275,95,18.88,HIGH,249,99.6,4-High,223,51.6,2-Low,223,22,1-Lowest
+2016,1318,Wyckoff Heights Medical Center,,v3.0,252,67,20.84,HIGH,257,56.8,1-Lowest,129,52.7,2-Low,124,21.8,1-Lowest
+2016,1320,University Hospital of Brooklyn,,v3.0,306,88,27.43,AVERAGE,336,99.4,4-High,255,47.1,1-Lowest,253,22.9,1-Lowest
+2016,1324,Mount Sinai Beth Israel Brooklyn,,v3.0,140,60,28.15,AVERAGE,147,100,5-Highest,120,75.8,5-Highest,120,55.8,5-Highest
+2016,1437,New York-Presbyterian/Lower Manhattan Hospital,,v3.0,211,50,22.29,AVERAGE,209,100,5-Highest,175,61.1,3-Middle,163,42.3,4-High
+2016,1438,Bellevue Hospital Center,,v3.0,426,52,13.9,HIGH,474,99.2,4-High,323,69.3,4-High,318,61.6,5-Highest
+2016,1439,Mount Sinai Beth Israel,,v3.0,708,117,18.45,HIGH,736,94.8,3-Middle,528,60.4,3-Middle,524,42.7,4-High
+2016,1445,Harlem Hospital Center,,v3.0,176,63,27.77,AVERAGE,180,92.8,3-Middle,118,53.4,2-Low,117,6,1-Lowest
+2016,1447,Hospital for Special Surgery,,v3.0,S.S.,S.S.,S.S.,S.S.,11,81.8,2-Low,N.C.,N.C.,N.C.,N.C.,N.C.,N.C.
+2016,1450,Lenox Hill Hospital,,v3.0,467,76,18.63,HIGH,484,100,5-Highest,399,62.2,3-Middle,397,43.8,4-High
+2016,1453,Memorial Hospital for Cancer and Allied Diseases,,v3.0,428,169,22.34,HIGH,458,85.2,2-Low,188,67.6,4-High,188,44.7,4-High
+2016,1454,Metropolitan Hospital Center,,v3.0,83,24,25.4,AVERAGE,84,77.4,2-Low,60,43.3,1-Lowest,60,20,1-Lowest
+2016,1456,Mount Sinai Hospital,,v3.0,835,219,22.01,HIGH,889,100,5-Highest,380,42.6,1-Lowest,377,27.6,2-Low
+2016,1458,New York Presbyterian Hospital - New York Weill Cornell Center,,v3.0,507,171,25.58,AVERAGE,484,100,5-Highest,328,48.2,2-Low,304,21.7,1-Lowest
+2016,1463,NYU Hospitals Center,,v3.0,445,102,16.08,HIGH,360,97.2,4-High,265,74.7,5-Highest,253,62.1,5-Highest
+2016,1464,New York Presbyterian Hospital - Columbia Presbyterian Center,,v3.0,663,221,23.8,AVERAGE,699,99.9,5-Highest,439,37.6,1-Lowest,419,14.1,1-Lowest
+2016,1466,Mount Sinai Roosevelt,,v3.0,495,59,16.21,HIGH,501,92.6,3-Middle,398,57.8,3-Middle,396,48,4-High
+2016,1469,Mount Sinai St. Lukes,,v3.0,801,114,16.82,HIGH,796,92,3-Middle,687,62.6,3-Middle,665,51.3,5-Highest
+2016,1626,Elmhurst Hospital Center,,v3.0,644,160,23.82,AVERAGE,670,99.4,4-High,557,40,1-Lowest,555,25.4,2-Low
+2016,1628,Flushing Hospital Medical Center,,v3.0,229,112,29.34,LOW,231,100,5-Highest,155,64.5,4-High,155,31,3-Middle
+2016,1629,Jamaica Hospital Medical Center,,v3.0,326,117,25.65,AVERAGE,340,78.2,2-Low,211,39.3,1-Lowest,206,17,1-Lowest
+2016,1630,Long Island Jewish Medical Center,,v3.0,765,176,27.61,AVERAGE,794,100,5-Highest,614,39.4,1-Lowest,613,24.8,2-Low
+2016,1633,Queens Hospital Center,,v3.0,342,82,24.2,AVERAGE,349,98.6,4-High,259,48.3,2-Low,255,28.2,2-Low
+2016,1635,St Johns Episcopal Hospital So Shore,,v3.0,539,184,29.27,LOW,555,69,1-Lowest,342,61.7,3-Middle,339,33.6,3-Middle
+2016,1637,New York Hospital Medical Center of Queens,,v3.0,"1,118",234,19.72,HIGH,1184,97.5,4-High,"1,093",28.9,1-Lowest,"1,082",14.3,1-Lowest
+2016,1638,Forest Hills Hospital,,v3.0,542,118,21.96,AVERAGE,558,100,5-Highest,374,70.3,4-High,370,40,4-High
+2016,1639,Mount Sinai Hospital - Mount Sinai Hospital of Queens,,v3.0,199,70,29.34,AVERAGE,203,100,5-Highest,148,53.4,2-Low,146,30.1,2-Low
+2016,1692,Woodhull Medical & Mental Health Center,,v3.0,202,56,24.15,AVERAGE,202,90.6,3-Middle,136,50.7,2-Low,135,33.3,3-Middle
+2016,1737,Staten Island University Hosp-South,,v3.0,196,66,36.77,LOW,192,93.8,3-Middle,118,66.1,4-High,118,40.7,4-High
+2016,1738,Richmond University Medical Center,,v3.0,311,133,27.99,AVERAGE,313,76.7,2-Low,79,51.9,2-Low,77,14.3,1-Lowest
+2016,1740,Staten Island University Hosp-North,,v3.0,929,301,30.39,LOW,960,93.4,3-Middle,570,47,1-Lowest,568,28.3,2-Low
+2016,3058,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,,v3.0,"1,083",302,22.88,HIGH,1139,16.5,1-Lowest,153,22.9,1-Lowest,153,8.5,1-Lowest
+2016,3067,Millard Fillmore Suburban Hospital,,v3.0,405,100,25.04,AVERAGE,401,48.1,1-Lowest,126,51.6,2-Low,126,27,2-Low
+2016,3975,New York Presbyterian Hospital - Allen Hospital,,v3.0,160,51,22.65,AVERAGE,171,100,5-Highest,138,58,3-Middle,123,27.6,2-Low
